@@ -1,0 +1,9 @@
+
+7
+java:S1220""Move this file to a named package.8Åñµ—2
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(æ“ºŸüÿÿÿÿ8ıÅñµ—2
+G	java:S106S"+Replace this use of System.out by a logger.(Á¾Œæ8ıÅñµ—2
+G	java:S106T"+Replace this use of System.out by a logger.(Ì˜‰ì8ıÅñµ—2
+L	java:S106U"+Replace this use of System.out by a logger.(å†ˆÕÿÿÿÿÿ8ıÅñµ—2
+L	java:S106V"+Replace this use of System.out by a logger.(ÄûÖ£ûÿÿÿÿ8¤ª÷µ—2
